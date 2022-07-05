@@ -1,0 +1,118 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+  
+}
+.section2{
+  display: flex;
+  margin-left: 100px;
+  margin-bottom: 40px;
+}
+.half-width{
+  width: 50%;
+}
+
+.half-width img{
+  width: 450px;
+  height:500px;
+  margin-left: 30px;
+
+}
+h1{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 40px;
+  color:darkslategray;
+}
+.fix-pera{
+  margin-top: 80px;
+}
+a{
+  text-decoration: none;
+  background-image: linear-gradient(orange,orangered);
+  border-radius: 30px;
+  padding: 10px 20px;
+  color: white;
+}
+.section1{
+  display: flex;
+  background-image: url("images/shapes/7.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 430px;
+  width: 100%;
+
+}
+.sec1{
+  width: 50%;
+  margin-left: 150px;
+  margin-top: 40px;
+}
+.sec1 img{
+  height: 400px;
+}
+.sec2{
+  width: 50%;
+  margin-right: 80px;
+  margin-top: 80px;
+  padding: 0px 50px;
+}
+.sec2 p{
+  margin-bottom: 60px;
+}
+.sec3{
+  display: flex;
+  padding-left: 50px;
+
+  
+}
+
+.img1 img{
+  height: 250px;
+  width: 450px;
+  border-radius: 15px;
+}
+.img1{
+  width: 50%;
+  box-shadow: 1px 1px 1px 2px wheat;
+  margin: 40px;
+  border-radius: 30px;
+  padding: 20px;
+  width: 450px;
+}
+
+.img2 img{
+  height: 250px;
+  width: 450px;
+  border-radius: 15px;
+}
+.img2{
+  width: 50%;
+  box-shadow: 1px 1px 1px 2px wheat;
+  margin: 40px;
+  border-radius: 30px;
+  padding: 20px;
+  width: 450px;
+}
+
+.finish{
+  display: flex;
+  box-shadow: 2px 2px 2px 2px gray;
+  margin: auto;
+  background-color: antiquewhite;
+  padding: 20px;
+  border-radius: 20px;
+  padding-left: 300px;
+  margin: 20px;
+  margin-bottom: 100px;
+  margin-top: 60px;
+}
+.finish h1{
+  color: black;
+  font-size: 50px;
+}
+.foot{
+  height: 230px;
+  width: 100%;
+  background-color: black;
+  margin-top: 60px;
+}
